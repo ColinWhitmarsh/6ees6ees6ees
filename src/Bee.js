@@ -1,7 +1,9 @@
 import Grub from './Grub'
 
-class Bee {
-  // TODO..
+class Bee extends Grub {
+  constructor () {
+  }
+  
 };
 
 export default Bee;

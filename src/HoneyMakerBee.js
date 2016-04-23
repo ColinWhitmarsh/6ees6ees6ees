@@ -1,4 +1,4 @@
-import Bee from './Bee'
+import Bee from './Bee';
 
 class HoneyMakerBee extends Bee {
   constructor() {
